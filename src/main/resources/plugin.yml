@@ -1,0 +1,5 @@
+name: PostGenerationChunkPopulator
+version: ${project.version}
+main: de.moke12g.postgenerationchunkpopulator.PostGenerationChunkPopulator
+api-version: 1.15
+load: STARTUP
